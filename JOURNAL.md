@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmveqfcsc09tf01rcpcs025l1). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom keyboard for playing and looping music in a cool way
+> A custom macro pad (3x4) on a PCB that will be hooked to an ESP32. It will control MIDI signals and send them to a computer to make sounds.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
